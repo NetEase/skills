@@ -3,7 +3,7 @@
 基于 `ncm-cli` 的网易云音乐 AI Agent 技能包。
 
 **温馨提示**：使用前请完成ncm-cli的安装（[安装指南](https://www.npmjs.com/package/@music163/ncm-cli)
-）与入驻（[入驻地址](https://developer.music.163.com/st/developer/apply/account?type=INDIVIDUAL)），并完成配置。
+）与入驻（[入驻指南](https://developer.music.163.com/st/developer/document?docId=9504d35aa41a47c6ac9830b2dbf48f94)），并完成配置。
 
 ## 技能概览
 
