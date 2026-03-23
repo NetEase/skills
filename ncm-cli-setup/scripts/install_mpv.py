@@ -103,7 +103,7 @@ def install_linux():
 def install_windows():
     if shutil.which("winget"):
         print("Installing mpv via winget...")
-        run("winget install mpv.mpv")
+        run("winget install --id shinchiro.mpv --exact")
     elif shutil.which("choco"):
         print("Installing mpv via Chocolatey...")
         run("choco install mpv -y")
